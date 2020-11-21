@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "293522181879",
+    "firebase_url": "https://uts2020rhony.firebaseio.com",
+    "project_id": "uts2020rhony",
+    "storage_bucket": "uts2020rhony.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293522181879:android:347acc30beab4279df0df2",
+        "android_client_info": {
+          "package_name": "com.example.uts_amub_ti7a_1711500083_rhony"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293522181879-jbsrfdhah9deuruatft3eamkcqmbsipr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uts_amub_ti7a_1711500083_rhony",
+            "certificate_hash": "35c055ac1007e019d286fcfeb6969418128ad51f"
+          }
+        },
+        {
+          "client_id": "293522181879-mt9dr88bisbosctca3qkjr4sbu4ndh1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJFFllOnp6yfx8J5igrfuM9i2T3LdsMzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293522181879-mt9dr88bisbosctca3qkjr4sbu4ndh1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
